@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/yujiewu66/yujiewu66.github.io/blob/08c8a62f6a59fcb736760be37547c43b46bc20b4/YujiePhoto.jpg" alt="Yujie" width="200"/>
+<img src="https://github.com/yujiewu66/yujiewu66.github.io/blob/01e7a791f851fd296b05874466fec594a5befdea/YujiePhoto.jpg" alt="Yujie" width="200"/>
 
 
 My name is Yujie Wu. My contact information is [here](https://mathematics.stanford.edu/people/yujie-wu).
