@@ -30,6 +30,8 @@ My research area is Differential Geometry, Analysis and PDEs. In particular, I a
 
 # Teaching
 **Teaching Assistant**, Stanford University 
+
+  [Guide](https://mathematics.stanford.edu/academics/introductory-math-courses) to Stanford introductory math courses.
 - Math 51: Linear Algebra, Multivariable Calculus, and Modern Applications
 \[Winter 2022, Fall 2022, Winter 2023\]
 - Math 52: Integral Calculus of Several Variables \[Winter 2024\]
@@ -42,7 +44,7 @@ My research area is Differential Geometry, Analysis and PDEs. In particular, I a
 - Math 205A: Real Analysis \[Fall 2023\]
 
 **Course Assistant**, ETH Zurich
-- Algebra I: Groups, Rings and Fields \[Autumn 2018\]
-- Algebra II: Galois Theory and Applications \[Spring 2019\]
-- Probability and Statistics \[Spring 2020\]
+- [Algebra I](https://metaphor.ethz.ch/x/2018/hs/401-2003-00L/): Groups, Rings and Fields \[Autumn 2018\]
+- [Algebra II](https://metaphor.ethz.ch/x/2019/fs/401-2004-00L/): Galois Theory and Applications \[Spring 2019\]
+- [Probability and Statistics](https://metaphor.ethz.ch/x/2020/fs/401-2604-00L/) \[Spring 2020\]
 
