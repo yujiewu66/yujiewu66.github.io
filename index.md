@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+My name is Yujie Wu. My contact information is [here](https://mathematics.stanford.edu/people/yujie-wu).
+
 Starting fall 2024, I am a fifth year graduate student in the [math](https://mathematics.stanford.edu/)  department at Stanford University. My advisor is [Otis Chodosh](https://web.stanford.edu/~ochodosh/).
 
 My research area is Differential Geometry, Analysis and PDEs. In particular, I am interested in [minimal (hyper)surfaces](https://en.wikipedia.org/wiki/Minimal_surface); I have recently worked on projects that study how the ambient manifolds' geometry (in particular their curvature assumptions) influence the topology and geometry of their immersed and embedded stable minimal (hyper)surfaces. I am also thinking about the [Allen-Cahn](https://en.wikipedia.org/wiki/Allen%E2%80%93Cahn_equation) equation and their relations to minimal surface theory.
@@ -15,7 +17,7 @@ My research area is Differential Geometry, Analysis and PDEs. In particular, I a
 
 
 ### Master Thesis
-fdfdfdfdfdfdfd
+"Construction of Harmonic Maps by MinMax Methods." [Download.](https://github.com/yujiewu66/yujiewu66.github.io/blob/2cc77cdfd8012d3c78d97be6d79cc08c4aeef4b3/Yujie_Wu_Master_Thesis_Dec14.pdf)  Advisor: [Tristan Rivière](https://people.math.ethz.ch/~triviere/).
 
 # Talks
 **Free boundary stable minimal hypersurfaces in positively curved 4-manifolds:**
