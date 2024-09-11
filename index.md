@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="https://github.com/yujiewu66/yujiewu66.github.io/blob/e8c4fc08ba415525cf4652d599b0f57895c298d1/yjphoto.jpg" alt="Yujie" width="350"/>
+<img src="http://yujiewu66.github.io/files/yjphoto.jpg" alt="Yujie" width="350"/>
 
 
 
@@ -19,7 +19,7 @@ My research area is Differential Geometry, Analysis and PDEs. In particular, I a
 
 
 ### Master Thesis
-"Construction of Harmonic Maps by MinMax Methods." [Download.](https://github.com/yujiewu66/yujiewu66.github.io/blob/2cc77cdfd8012d3c78d97be6d79cc08c4aeef4b3/Yujie_Wu_Master_Thesis_Dec14.pdf)  Advisor: [Tristan Rivière](https://people.math.ethz.ch/~triviere/).
+"Construction of Harmonic Maps by MinMax Methods." [Download.](https://yujiewu66.github.io/files/Yujie_Wu_Master_Thesis_Dec14.pdf)  Advisor: [Tristan Rivière](https://people.math.ethz.ch/~triviere/).
 
 # Talks
 **Free boundary stable minimal hypersurfaces in positively curved 4-manifolds:**
