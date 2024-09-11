@@ -11,6 +11,8 @@ Starting fall 2024, I am a fifth year graduate student in the [math](https://mat
 
 My research area is Differential Geometry, Analysis and PDEs. In particular, I am interested in [minimal (hyper)surfaces](https://en.wikipedia.org/wiki/Minimal_surface); I have recently worked on projects that study how the ambient manifolds' geometry (in particular their curvature assumptions) influence the topology and geometry of their immersed and embedded stable minimal (hyper)surfaces. I am also thinking about the [Allen-Cahn](https://en.wikipedia.org/wiki/Allen%E2%80%93Cahn_equation) equation and their relations to minimal surface theory.
 
+You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](https://scholar.google.com/citations?user=G-8CWGoAAAAJ&hl=en&oi=ao) and [ORCiD](https://orcid.org/0000-0003-4671-7800).
+
 
 # Papers
 
