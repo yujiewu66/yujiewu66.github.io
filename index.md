@@ -52,7 +52,7 @@ You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](h
 
 
 # Others
-- Stanford Geoemtry Seminar ([link](https://mathematics.stanford.edu/events/geometry)).
+- Stanford Geometry Seminar ([link](https://mathematics.stanford.edu/events/geometry)).
 - Stanford Student Analysis Seminar ([link](https://mathematics.stanford.edu/events/student-analysis)).
 - Stanford Women in Math Mentoring ([SWIMM](https://swimm.stanford.edu/)).
 > SWIMM is a mentoring program pairing undergraduates interested in math and computational science with graduate student mentors from math, statistics, and ICME. We also host events, including study halls, dinners, and talks.
