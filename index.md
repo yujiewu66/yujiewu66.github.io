@@ -50,3 +50,11 @@ You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](h
 - [Algebra II](https://metaphor.ethz.ch/x/2019/fs/401-2004-00L/): Galois Theory and Applications \[Spring 2019\]
 - [Probability and Statistics](https://metaphor.ethz.ch/x/2020/fs/401-2604-00L/) \[Spring 2020\]
 
+
+# Others
+- Stanford Geoemtry Seminar ([link](https://mathematics.stanford.edu/events/geometry)).
+- Stanford Student Analysis Seminar ([link](https://mathematics.stanford.edu/events/student-analysis)).
+- Stanford Women in Math Mentoring ([SWIMM](https://swimm.stanford.edu/)).
+> SWIMM is a mentoring program pairing undergraduates interested in math and computational science with graduate student mentors from math, statistics, and ICME. We also host events, including study halls, dinners, and talks.
+
+
