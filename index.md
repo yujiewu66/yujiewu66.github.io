@@ -30,6 +30,8 @@ You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](h
 - Geometry and Analysis Seminar, *University of California, Santa Cruz*. \[Nov 2023\]
 
 **Capillary surfaces in manifolds with nonnegative scalar curvature and strictly mean convex boundary:**
+- Convergence Or Scalar Curvature Seminar (COSC), Online. \[Dec 2024\]
+- YMSC-BJTU Geometry Seminar, Online, *Tsinghua University*. \[Nov 2024\]
 - Geometric Analysis Seminar, Online, *BICMR, Peking University*. \[Oct 2024\]
 
 # Teaching
