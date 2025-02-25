@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="http://yujiewu66.github.io/files/yjphoto.jpg" alt="Yujie" width="350"/>
+<img src="http://yujiewu66.github.io/files/YujiePhoto.png" alt="Yujie" width="350"/>
 
 
 
