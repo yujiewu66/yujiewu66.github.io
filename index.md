@@ -26,13 +26,20 @@ You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](h
 "Construction of Harmonic Maps by MinMax Methods." [Download.](https://yujiewu66.github.io/files/Yujie_Wu_Master_Thesis_Dec14.pdf)  Advisor: [Tristan Rivière](https://people.math.ethz.ch/~triviere/).
 
 # Talks
-**Free boundary stable minimal hypersurfaces in positively curved 4-manifolds:**
-- Geometry and Analysis Seminar, *University of California, Santa Cruz*. \[Nov 2023\]
+**From $\mu$-bubble to $\theta$-bubble: Geometry of Mean Convex Manifolds with NNSC:**
+- Geometry Seminar, *Rice University*. \[Mar 2025\]
+- Differential Geometry Seminar, *UC Berkeley*. \[Mar 2025\]
+- Geometric Analysis Seminar, *University of Chicago*. \[Feb 2025\]
+- Geometry and Topology Seminar, *University of Wisconsin-Madison*. \[Feb 2025\]
 
 **Capillary surfaces in manifolds with nonnegative scalar curvature and strictly mean convex boundary:**
 - Convergence Or Scalar Curvature Seminar (COSC), Online. \[Dec 2024\]
 - YMSC-BJTU Geometry Seminar, Online, *Tsinghua University*. \[Nov 2024\]
 - Geometric Analysis Seminar, Online, *BICMR, Peking University*. \[Oct 2024\]
+
+**Free boundary stable minimal hypersurfaces in positively curved 4-manifolds:**
+- Geometry and Analysis Seminar, *University of California, Santa Cruz*. \[Nov 2023\]
+
 
 # Teaching
 **Teaching Assistant**, Stanford University 
@@ -45,7 +52,7 @@ You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](h
 
 
 **Course Assistant**, Stanford University
-- Math 104: Applied Matrix Theory \[Summer 2021\]
+- Math 104: Applied Matrix Theory \[Summer 2021, Winter 2025\]
 - Math 173: Theory of Partial Differential Equations \[Spring 2022\]
 - Math 205A: Real Analysis \[Fall 2023\]
 
