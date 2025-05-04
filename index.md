@@ -17,7 +17,7 @@ You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](h
 
 
 # Papers
-
+- Rigidity of Complete Free Boundary Minimal Hypersurfaces in Convex NNSC Manifolds. [https://arxiv.org/abs/2504.20585](https://arxiv.org/abs/2504.20585)
 - Capillary surfaces in manifolds with nonnegative scalar curvature and strictly mean convex boundary. [https://arxiv.org/abs/2405.03993](https://arxiv.org/abs/2405.03993)
 - Free Boundary Stable Minimal Hypersurfaces in Positively Curved 4-Manifolds. [https://arxiv.org/abs/2308.08103](https://arxiv.org/abs/2308.08103)
 
