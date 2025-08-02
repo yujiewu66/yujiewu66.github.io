@@ -7,9 +7,11 @@ layout: default
 
 My name is Yujie Wu. My contact information is [here](https://mathematics.stanford.edu/people/yujie-wu).
 
-Starting fall 2024, I am a fifth year graduate student in the [math](https://mathematics.stanford.edu/)  department at Stanford University. My advisor is [Otis Chodosh](https://web.stanford.edu/~ochodosh/).
+I was a graduate student in the [math](https://mathematics.stanford.edu/)  department at Stanford University from Sep 2020 to June 2025. My advisor is [Otis Chodosh](https://web.stanford.edu/~ochodosh/).
 
-I am applying for postdoc positions starting in fall 2025.
+I am a postdoc researcher at the University of Potsdam from fall 2025 to summer 2026, sponsored by the ERC project Comparison and rigidity for scalar curvature “COMSCAL” of [Rudolf Zeidler]([url](https://www.rzeidler.eu)).
+
+Starting fall 2026, I will be a postdoc researcher at Carnegie Mellon University, mentored by [Robin Neumayer]([url](https://www.math.cmu.edu/~rneumaye/)). 
 
 My research area is Differential Geometry, Analysis and PDEs. In particular, I am interested in [minimal (hyper)surfaces](https://en.wikipedia.org/wiki/Minimal_surface); I have recently worked on projects that study how the ambient manifolds' geometry (in particular their curvature assumptions) influence the topology and geometry of their immersed and embedded stable minimal (hyper)surfaces. I am also thinking about the [Allen-Cahn](https://en.wikipedia.org/wiki/Allen%E2%80%93Cahn_equation) equation and their relations to minimal surface theory.
 
