@@ -7,11 +7,13 @@ layout: default
 
 My name is Yujie Wu. My contact information is [here](https://mathematics.stanford.edu/people/yujie-wu).
 
-I was a graduate student in the [math](https://mathematics.stanford.edu/)  department at Stanford University from Sep 2020 to June 2025. My advisor is [Otis Chodosh](https://web.stanford.edu/~ochodosh/).
 
 I am a postdoc researcher at the University of Potsdam from fall 2025 to summer 2026, sponsored by the ERC project Comparison and rigidity for scalar curvature “COMSCAL” of [Rudolf Zeidler](https://www.rzeidler.eu).
 
 Starting fall 2026, I will be a postdoc researcher at Carnegie Mellon University, mentored by [Robin Neumayer](https://www.math.cmu.edu/~rneumaye/). 
+
+I was a graduate student in the [math](https://mathematics.stanford.edu/)  department at Stanford University from Sep 2020 to June 2025. My advisor is [Otis Chodosh](https://web.stanford.edu/~ochodosh/).
+
 
 My research area is Differential Geometry, Analysis and PDEs. In particular, I am interested in [minimal (hyper)surfaces](https://en.wikipedia.org/wiki/Minimal_surface); I have recently worked on projects that study how the ambient manifolds' geometry (in particular their curvature assumptions) influence the topology and geometry of their immersed and embedded stable minimal (hyper)surfaces. I am also thinking about the [Allen-Cahn](https://en.wikipedia.org/wiki/Allen%E2%80%93Cahn_equation) equation and their relations to minimal surface theory.
 
@@ -32,17 +34,17 @@ Advisor: [Otis Chodosh](https://web.stanford.edu/~ochodosh/)
 
 # Talks
 **Capillary Hypersurfaces and Variational Methods**
- [Slides.](https://yujiewu66.github.io/files/FBMH-B4-Talk-Slides.pdf)
+ [Slides.](https://yujiewu66.github.io/files/FBMH-B4-Handout.pdf)
 - Geometry Seminar, *University of Potsdam*, \[Jun 2025\]
 - Workshop on Curvature and Global Shape, *Universität Münster, Mathematisches Institut*, \[Aug 2025\]
 
-**From $\mu$-bubble to $\theta$-bubble: Geometry of Mean Convex Manifolds with NNSC:**
+**From $\mu$-bubble to $\theta$-bubble: Geometry of Mean Convex Manifolds with NNSC**
 - Geometry Seminar, *Rice University*. \[Mar 2025\]
 - Differential Geometry Seminar, *UC Berkeley*. \[Mar 2025\]
 - Geometric Analysis Seminar, *University of Chicago*. \[Feb 2025\]
 - Geometry and Topology Seminar, *University of Wisconsin-Madison*. \[Feb 2025\]
 
-**Capillary surfaces in manifolds with nonnegative scalar curvature and strictly mean convex boundary:**
+**Capillary surfaces in manifolds with nonnegative scalar curvature and strictly mean convex boundary**
 - Convergence Or Scalar Curvature Seminar (COSC), Online. \[Dec 2024\]
 - YMSC-BJTU Geometry Seminar, Online, *Tsinghua University*. \[Nov 2024\]
 - Geometric Analysis Seminar, Online, *BICMR, Peking University*. \[Oct 2024\]
