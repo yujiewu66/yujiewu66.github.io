@@ -9,9 +9,9 @@ My name is Yujie Wu. My contact information is [here](https://mathematics.stanfo
 
 I was a graduate student in the [math](https://mathematics.stanford.edu/)  department at Stanford University from Sep 2020 to June 2025. My advisor is [Otis Chodosh](https://web.stanford.edu/~ochodosh/).
 
-I am a postdoc researcher at the University of Potsdam from fall 2025 to summer 2026, sponsored by the ERC project Comparison and rigidity for scalar curvature “COMSCAL” of [Rudolf Zeidler]([url](https://www.rzeidler.eu)).
+I am a postdoc researcher at the University of Potsdam from fall 2025 to summer 2026, sponsored by the ERC project Comparison and rigidity for scalar curvature “COMSCAL” of ([Rudolf Zeidler](https://www.rzeidler.eu)).
 
-Starting fall 2026, I will be a postdoc researcher at Carnegie Mellon University, mentored by [Robin Neumayer]([url](https://www.math.cmu.edu/~rneumaye/)). 
+Starting fall 2026, I will be a postdoc researcher at Carnegie Mellon University, mentored by ([Robin Neumayer](https://www.math.cmu.edu/~rneumaye/)). 
 
 My research area is Differential Geometry, Analysis and PDEs. In particular, I am interested in [minimal (hyper)surfaces](https://en.wikipedia.org/wiki/Minimal_surface); I have recently worked on projects that study how the ambient manifolds' geometry (in particular their curvature assumptions) influence the topology and geometry of their immersed and embedded stable minimal (hyper)surfaces. I am also thinking about the [Allen-Cahn](https://en.wikipedia.org/wiki/Allen%E2%80%93Cahn_equation) equation and their relations to minimal surface theory.
 
@@ -23,11 +23,19 @@ You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](h
 - Capillary surfaces in manifolds with nonnegative scalar curvature and strictly mean convex boundary. _International Mathematics Research Notices_, Volume 2025, Issue 9, May 2025 [Journal Link](https://academic.oup.com/imrn/article-abstract/doi/10.1093/imrn/rnaf106/8123149?utm_source=advanceaccess&utm_campaign=imrn&utm_medium=email)
 - Free Boundary Stable Minimal Hypersurfaces in Positively Curved 4-Manifolds. [https://arxiv.org/abs/2308.08103](https://arxiv.org/abs/2308.08103)
 
+### Disssertation
+"Capillary Hypersurfaces and Variational Methods in Positively Curved Manifolds with Boundary."  [Download.](https://yujiewu66.github.io/files/Yujie_Wu_Master_Thesis_Dec14.pdf)
+Advisor: [Otis Chodosh](https://web.stanford.edu/~ochodosh/)
 
 ### Master Thesis
 "Construction of Harmonic Maps by MinMax Methods." [Download.](https://yujiewu66.github.io/files/Yujie_Wu_Master_Thesis_Dec14.pdf)  Advisor: [Tristan Rivière](https://people.math.ethz.ch/~triviere/).
 
 # Talks
+**Capillary Hypersurfaces and Variational Methods**
+ [Slides.](https://yujiewu66.github.io/files/FBMH-B4-Talk-Slides.pdf)
+- Geometry Seminar, *University of Potsdam*, \[Jun 2025\]
+- Workshop on Curvature and Global Shape, *Universität Münster, Mathematisches Institut*, \[Aug 2025\]
+
 **From $\mu$-bubble to $\theta$-bubble: Geometry of Mean Convex Manifolds with NNSC:**
 - Geometry Seminar, *Rice University*. \[Mar 2025\]
 - Differential Geometry Seminar, *UC Berkeley*. \[Mar 2025\]
