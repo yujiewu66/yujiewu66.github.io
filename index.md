@@ -20,6 +20,8 @@ My research area is Differential Geometry, Analysis and PDEs. In particular, I a
 You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](https://scholar.google.com/citations?user=G-8CWGoAAAAJ&hl=en&oi=ao) and [ORCiD](https://orcid.org/0000-0003-4671-7800).
 
 
+
+
 # Papers
 - Rigidity of Complete Free Boundary Minimal Hypersurfaces in Convex NNSC Manifolds. [https://arxiv.org/abs/2504.20585](https://arxiv.org/abs/2504.20585)
 - Capillary surfaces in manifolds with nonnegative scalar curvature and strictly mean convex boundary. _International Mathematics Research Notices_, Volume 2025, Issue 9, May 2025 [Journal Link](https://academic.oup.com/imrn/article-abstract/doi/10.1093/imrn/rnaf106/8123149?utm_source=advanceaccess&utm_campaign=imrn&utm_medium=email)
