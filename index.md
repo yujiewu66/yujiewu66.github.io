@@ -5,7 +5,7 @@ layout: default
 
 
 
-My name is Yujie Wu. My contact information is [here](https://mathematics.stanford.edu/people/yujie-wu).
+My name is Yujie Wu. My contact information is [here](https://www.math.uni-potsdam.de/professuren/geometrie/personen/yujie-wu).
 
 
 I am a postdoc researcher at the University of Potsdam from fall 2025 to summer 2026, sponsored by the ERC project Comparison and rigidity for scalar curvature “COMSCAL” of [Rudolf Zeidler](https://www.rzeidler.eu).
@@ -23,6 +23,7 @@ You can find me on [arxiv](https://arxiv.org/a/wu_y_18.html), [Google Scholar](h
 
 
 # Papers
+- Comparison Theorems and the Intermediate Ricci Curvature Assumption. [https://arxiv.org/abs/2510.11205](https://arxiv.org/abs/2510.11205)
 - Rigidity of Complete Free Boundary Minimal Hypersurfaces in Convex NNSC Manifolds. [https://arxiv.org/abs/2504.20585](https://arxiv.org/abs/2504.20585)
 - Capillary surfaces in manifolds with nonnegative scalar curvature and strictly mean convex boundary. _International Mathematics Research Notices_, Volume 2025, Issue 9, May 2025 [Journal Link](https://academic.oup.com/imrn/article-abstract/doi/10.1093/imrn/rnaf106/8123149?utm_source=advanceaccess&utm_campaign=imrn&utm_medium=email)
 - Free Boundary Stable Minimal Hypersurfaces in Positively Curved 4-Manifolds. [https://arxiv.org/abs/2308.08103](https://arxiv.org/abs/2308.08103)
