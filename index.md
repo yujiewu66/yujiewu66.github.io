@@ -36,10 +36,16 @@ Advisor: [Otis Chodosh](https://web.stanford.edu/~ochodosh/)
 "Construction of Harmonic Maps by MinMax Methods." [Download.](https://yujiewu66.github.io/files/Yujie_Wu_Master_Thesis_Dec14.pdf)  Advisor: [Tristan Rivière](https://people.math.ethz.ch/~triviere/).
 
 # Talks
+**Application of Curvature Comparison Theorems in Minimal Surfaces**
+- Oberseminar Differentialgeometrie, *University of Augsburg*, \[Jan 2026\]
+- GNOSC Seminar, *Online*, [link to talk](https://youtu.be/NPXFH0GT7WE?si=mhLANraTvFDODnZ-), \[Dec 2025\]
+- Oberseminar Differential Geometry, *Universität Münster, Mathematisches Institut*, \[Nov 2025\]
+
 **Capillary Hypersurfaces and Variational Methods**
  [Slides.](https://yujiewu66.github.io/files/FBMH-B4-Handout.pdf)
-- Geometry Seminar, *University of Potsdam*, \[Jun 2025\]
 - Workshop on Curvature and Global Shape, *Universität Münster, Mathematisches Institut*, \[Aug 2025\]
+- Geometry Seminar, *University of Potsdam*, \[Jun 2025\]
+
 
 **From $\mu$-bubble to $\theta$-bubble: Geometry of Mean Convex Manifolds with NNSC**
 - Geometry Seminar, *Rice University*. \[Mar 2025\]
