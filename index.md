@@ -36,6 +36,8 @@ Advisor: [Otis Chodosh](https://web.stanford.edu/~ochodosh/)
 "Construction of Harmonic Maps by MinMax Methods." [Download.](https://yujiewu66.github.io/files/Yujie_Wu_Master_Thesis_Dec14.pdf)  Advisor: [Tristan Rivière](https://people.math.ethz.ch/~triviere/).
 
 # Talks
+[Talk Abstracts](./another-page.html)
+
 **Application of Curvature Comparison Theorems in Minimal Surfaces**
 - Oberseminar Differentialgeometrie, *University of Augsburg*, \[Jan 2026\]
 - GNOSC Seminar, *Online*, [link to talk](https://youtu.be/NPXFH0GT7WE?si=mhLANraTvFDODnZ-), \[Dec 2025\]
