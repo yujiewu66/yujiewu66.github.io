@@ -5,7 +5,7 @@ layout: default
 
 
 
-My name is Yujie Wu. My contact information is [here](https://www.math.uni-potsdam.de/professuren/geometrie/personen/yujie-wu).
+My name is Yujie Wu. My contact information can be found [here](https://www.cmu.edu/math/people/visiting-faculty-postdocs.html).
 
 Starting fall 2026, I am a postdoc researcher at Carnegie Mellon University, mentored by [Robin Neumayer](https://www.math.cmu.edu/~rneumaye/). 
 
